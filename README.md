@@ -42,3 +42,7 @@ Crear la base de datos en MySQL o un sistema compatible.
 Ejecutar el archivo SQL proporcionado para la creación de tablas.
 
 Cargar datos iniciales según sea necesario.
+
+![mermaid-diagram-2025-02-28-104712](https://github.com/user-attachments/assets/c30bf54f-dad0-4343-8018-67f748cdfa69)
+
+
